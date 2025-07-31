@@ -1,5 +1,5 @@
-//export const BASE_URL=" https://money-manager-dgho.onrender.com/api/v1.0";
-export const BASE_URL="http://localhost:8080/api/v1.0";
+export const BASE_URL="https://money-manager-1-8xuc.onrender.com/api/v1.0";
+//export const BASE_URL="http://localhost:8080/api/v1.0";
 export const CLOUDINARY_CLOUD_NAME="dsv8htbs4";
 
 export const API_ENDPOINTS = {
